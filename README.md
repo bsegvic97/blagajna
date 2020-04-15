@@ -1,2 +1,0 @@
-# blagajna
-Created with CodeSandbox
